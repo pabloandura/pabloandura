@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pabloandura
-- 👀 I’m interested in learning about developing software for electronics.
-- 🌱 I’m currently learning javascript and web development.
-- :man_juggling: My previous experience in software development is for Data Science and Embedded Systems.
+- 👀 I’m interested in learning about developing software for electronics and information technologies.
+- 🌱 I’m currently learning JavasScript and Web Development
+- :man_juggling: My previous experience in software is from Data Science and Embedded Systems.
 - 📫 Reach me: pablo.andura@gmail.com
 
 <!---
