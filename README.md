@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pabloandura
 - 👀 I’m interested in learning about developing software for electronics and information technologies.
-- 🌱 I’m currently learning React and NextJS
+- 🌱 I’m currently learning React and Typescript
 - :man_juggling: My previous experience in software is from Data Science and Embedded Systems.
 - 📫 Reach me: pablo.andura@gmail.com
 
