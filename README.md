@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pabloandura
 - 👀 I’m interested in learning about developing software for electronics and information technologies.
-- 🌱 I’m currently learning React and Typescript
-- :man_juggling: My previous experience in software is from Data Science and Embedded Systems.
+- 🌱 I’m currently learning Express and Node and how to make very efficient RESTful API's.
+- :man_juggling: My previous experience is in Data Science, Embedded Systems, and Front-End Development.
 - 📫 Reach me: pablo.andura@gmail.com
 
 <!---
