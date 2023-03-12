@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pabloandura
-- 👀 I’m interested in learning about developing software for electronics and information technologies.
+- 👀 I’m interested in developing software for electronics and information technologies.
 - 🌱 I’m currently learning Express and Node and how to make efficient RESTful API's.
-- :man_juggling: My previous experience is in Data Science, Embedded Systems, and Front-End Development.
+- :man_juggling: My previous experience is in Data Analysis, Embedded Systems, and Front-End Development.
 - 📫 Reach me: pablo.andura@gmail.com
 
 <!---
