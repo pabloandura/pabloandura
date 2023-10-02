@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pabloandura
-- - :man_juggling: This github has solo / team projects.
+- :man_juggling: This github has solo / team projects.
 - 📫 Reach me: pablo.andura@gmail.com
 
 <!---
